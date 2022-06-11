@@ -6,8 +6,12 @@
 Everything is slowly from zero.
 I'll become a better developer every day.
 
-![Dayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=allzeroyou&theme=flag-india&show_icons=true&hide=stars,prs&count_private=true)
+<a href="https://github.com/allzeroyou"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=allzeroyou&theme=flag-india&show_icons=true&hide=stars,prs&count_private=true"/> </a>
 <br/>
 <br/>
 ## Which language do I use the most? 🧐
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allzeroyou)](https://github.com/allzeroyou/github-readme-stats)
+<a href="https://github.com/allzeroyou"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allzeroyou&layout=compact&theme=flag-india&hide_border=true" /></a> 
+
+## solved.ac Rank
+Solve 3 algorithm problems every day (2022.06.10~
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=s357110)](https://solved.ac/s357110)
