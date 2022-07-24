@@ -14,7 +14,7 @@ I'll become a better developer every day.
 
 ## Dayeong BOJ Stats
 Solve 3 algorithm problems every day
-(2022.06.10~
+(2022.06.10 ~ ing)
 <!-- <p align="center">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=s357110">
 </p> -->
