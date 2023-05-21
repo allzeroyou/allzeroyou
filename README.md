@@ -9,11 +9,10 @@ I'll become a better developer every day.
 <a href="https://github.com/allzeroyou"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=allzeroyou&theme=flag-india&show_icons=true&hide=stars,prs&count_private=true"/> </a>
 <br/>
 <br/>
-## Which language do I use the most? 🧐
-<a href="https://github.com/allzeroyou"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allzeroyou&layout=compact&theme=flag-india&hide_border=true" /></a> 
 
 ## Dayeong BOJ Stats
-Solve 3 algorithm problems every day
+Solve 1 algorithm problems every day.
+
 (2022.06.10 ~ ing)
 <!-- <p align="center">
   <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=s357110">
