@@ -1,4 +1,4 @@
-## 👋 유다영을 소개합니다
+## 👋 About me
 
 - 💚 **하나은행 Digital hana 路 2기 풀스택 개발자 양성과정 최우수 수료** (975시간)
     - 금융 도메인 및 풀스택 개발 습득 (Java, SpringBoot, MySQL, React, AWS, GitHub)
@@ -92,8 +92,6 @@
 - 정보처리기사 (2023.11)
 - SQLD (2023.04)
 - ADsP (2022.09)
-
-----
 
 ## 😈 GitHub stats
 Everything is slowly from zero.
